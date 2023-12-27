@@ -1,11 +1,16 @@
 _repo: The-evolution-of-worlds-from-nebulae_72286
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72286-h/images/cover.jpg
 creator:
   author:
     agent_name: Dean, Lee Parker
     gutenberg_agent_id: '56631'
     url: http://www.gutenberg.org/2009/agents/56631
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72286#The-evolution-of-worlds-from-nebulae
 gutenberg_issued: '2023-12-02'
 identifiers:
   gutenberg: '72286'
